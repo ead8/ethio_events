@@ -5,13 +5,12 @@ useHead({
 })
 
 definePageMeta({
-  layout:'custom'
+  layout:"custom"
 })
 </script>
 
 <template>
     <div>
- 
   <EventDetailHero/>
   <EventDetailAttribute/>
   <EventDetailDescription/>
