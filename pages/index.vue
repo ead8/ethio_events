@@ -1,7 +1,7 @@
 <script  setup>
 
 useHead({
-    title:"ethioevents"
+    title:"EthioEvents"
 })
 </script>
 
